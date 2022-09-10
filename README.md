@@ -18,4 +18,4 @@
 ## Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brahayan_mindiola-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brahayan-mindiola)
 [![GitHub](https://img.shields.io/badge/GitHub-@bmindiola-0E76A8?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/bmindiola)
-[![GitHub](https://img.shields.io/badge/GitHub-@bmindiola-0E76A8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://github.com/bmindiola)
+[![GitHub](https://img.shields.io/badge/Gmail-briandmj.2001@gmail.com-0E76A8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](briandmj.2001@gmail.com)
