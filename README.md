@@ -11,10 +11,11 @@ Me apasiona mucho el desarrollo de software y el cómo se pueden transformar dif
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=323330)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)]()
-[![Flask](https://img.shields.io/badge/Flask-EEEEEE?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=00758F)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-848484?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=0064a5)]()
+</br>
+[![Git](https://img.shields.io/badge/Git-3d2c00?style=for-the-badge&logo=Git&logoColor=white&labelColor=f34f29)]()
 
 ## Encuentrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brahayan_mindiola-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brahayan-mindiola)
