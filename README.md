@@ -2,7 +2,7 @@
 
 Soy desarrollador FrontEnd y estoy culminando la carrera de Ingeniería Electrónica. Tengo 1 año de experiencia trabajando como programador freelance desarrollando soluciones a medida para diversas personas, además de realizar algunos proyectos pequeños de FrontEnd publicados en mi GitHub. He trabajado con tecnologías y lenguajes de programación como Python, JavaScript, MySQL, HTML y CSS.
 
-Me apasiona mucho el desarrollo de software y el cómo se pueden transformar diferentes ideas en productos o soluciones digitales. Asimismo, me encanta escribir código legible y de esta forma crear páginas web responsive basándome en diseños UX/UI y me gustaría que mi próximo trabajo sea realizando este tipo de tareas. 
+Me apasiona mucho el desarrollo de software y el cómo se pueden transformar diferentes ideas en productos o soluciones digitales. Asimismo, me encanta escribir código legible y de esta forma crear páginas o aplicaciones web responsive basándome en diseños UX/UI.
 
 ## Tecnologías:
 [![HTML5](https://img.shields.io/badge/html5-F06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34C26)]()
