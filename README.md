@@ -17,6 +17,10 @@ Me apasiona mucho el desarrollo de software y el cómo se pueden transformar dif
 </br>
 [![Git](https://img.shields.io/badge/Git-3d2c00?style=for-the-badge&logo=Git&logoColor=white&labelColor=f34f29)]()
 
+## Proyectos
+- [HTTP status code 404 Not Found](https://bmindiola.github.io/404-Not-Found/)
+- [Generador de Usuarios Aleatorios](https://bmindiola.github.io/random-user/)
+
 ## Encuentrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brahayan_mindiola-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brahayan-mindiola)
 [![GitHub](https://img.shields.io/badge/GitHub-@bmindiola-999999?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f)](https://github.com/bmindiola)
