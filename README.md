@@ -27,5 +27,4 @@ Me apasiona mucho el desarrollo de software y el cómo se pueden transformar dif
 
 ## Encuentrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@brahayan_mindiola-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brahayan-mindiola)
-[![GitHub](https://img.shields.io/badge/GitHub-@bmindiola-999999?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f)](https://github.com/bmindiola)
 [![GitHub](https://img.shields.io/badge/Gmail-bmindiola.dev@gmail.com-4285f4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B)](mailto:bmindiola.dev@gmail.com)
