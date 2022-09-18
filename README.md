@@ -1,9 +1,9 @@
-# Hola, mi nombre el Brahayan Mindiola 👋
+# Hola, mi nombre es Brahayan Mindiola 👋
 
 <div align="justify">
-Soy desarrollador Full-Stack y estoy culminando la carrera de Ingeniería Electrónica. Tengo 1 año de experiencia trabajando como programador freelance desarrollando soluciones a medida para diversas personas. He trabajado con tecnologías y/o lenguajes de programación como Python, JavaScript, MySQL, HTML y CSS.
+Soy desarrollador Full-Stack y estoy culminando la carrera de Ingeniería Electrónica. Tengo 1 año de experiencia trabajando como programador freelance desarrollando soluciones a medida para diversas personas.
 </br> </br>
-Me apasiona mucho el desarrollo de software y el cómo se pueden transformar diferentes ideas en productos o soluciones digitales. Asimismo, me encanta escribir código legible y de esta forma crear páginas o aplicaciones web responsive basándome en diseños UX/UI.
+Me apasiona mucho el desarrollo de software y el cómo se pueden transformar diferentes ideas en productos o soluciones digitales. Asimismo, me encanta escribir código legible y de esta forma crear páginas o aplicaciones web responsive e interactivas basándome en diseños UX/UI.
 </div>
 
 ## Tecnologías:
