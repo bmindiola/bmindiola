@@ -21,7 +21,7 @@ Me apasiona mucho el desarrollo de software y el cómo se pueden transformar dif
 [![Git](https://img.shields.io/badge/Git-3d2c00?style=for-the-badge&logo=Git&logoColor=white&labelColor=f34f29)]()
 
 ## Proyectos
-- [Tienda Online Interactiva](https://bmindiola.github.io/yard-sale/)
+- [Tienda Online Interactiva](https://bmindiola.github.io/yard-sale-js/)
 - [Generador de Usuarios Aleatorios](https://bmindiola.github.io/random-user/)
 - [HTTP status code 404 Not Found](https://bmindiola.github.io/404-Not-Found/)
 
