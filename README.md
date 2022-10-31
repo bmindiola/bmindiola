@@ -22,7 +22,7 @@ Me apasiona mucho el desarrollo de software y el cómo se pueden transformar dif
 
 ## Proyectos
 - [Tienda Online Interactiva](https://bmindiola.github.io/yard-sale-js/)
-- [To Do List](https://github.com/bmindiola/todo-list)
+- [To Do List](https://bmindiola-todo-list.netlify.app/)
 - [Generador de Usuarios Aleatorios](https://bmindiola.github.io/random-user/)
 - [Juego de Calaveras](https://skull-game.netlify.app/)
 - [HTTP status code 404 Not Found](https://bmindiola.github.io/404-Not-Found/)
