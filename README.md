@@ -7,6 +7,7 @@ Me apasiona mucho el desarrollo de software y el cómo se pueden transformar dif
 </div>
 
 ## Tecnologías:
+[![REACTJS](https://img.shields.io/badge/React-F06529?style=for-the-badge&logo=react&logoColor=white&labelColor=E34C26)]()
 [![HTML5](https://img.shields.io/badge/html5-F06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34C26)]()
 [![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=264DE4)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-602C50?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=080135)]()
