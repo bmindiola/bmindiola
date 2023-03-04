@@ -1,7 +1,7 @@
 # Hola, mi nombre es Brahayan Mindiola 👋
 
 <div align="justify">
-Soy desarrollador FrontEnd y estoy por terminar la carrera de Ingeniería Electrónica. Tengo 1 año de experiencia trabajando como programador freelance desarrollando soluciones a medida para diversos clientes.
+Soy desarrollador FrontEnd y estoy por terminar la carrera de Ingeniería Electrónica. Tengo 2 año de experiencia trabajando como programador freelance desarrollando soluciones a medida para diversos clientes.
 </br> </br>
 Me apasiona mucho el desarrollo de software y el cómo se pueden transformar diferentes ideas en productos o soluciones digitales. Asimismo, me encanta escribir código legible y de esta forma crear páginas o aplicaciones web responsive e interactivas basándome en diseños UX/UI.
 </div>
