@@ -27,7 +27,7 @@ Me apasiona mucho el desarrollo de software y el cómo se pueden transformar dif
 - [HTTP status code 404 Not Found](https://bmindiola.github.io/404-Not-Found/)
 
 ## Encuentrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@brahayan_mindiola-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brahayan-mindiola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@brahayan_mindiola-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/bmindiola)
 [![GitHub](https://img.shields.io/badge/Gmail-bmindiola.dev@gmail.com-4285f4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B)](mailto:bmindiola.dev@gmail.com)
 
 <!---
