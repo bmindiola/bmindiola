@@ -1,11 +1,10 @@
 # Hola, mi nombre es Brahayan Mindiola 👋
 
 <div align="justify">
-Soy desarrollador de Software y estoy por terminar la carrera de Ingeniería Electrónica. Tengo 3 años de experiencia trabajando como programador, desarrollando soluciones a medida para diversos clientes y empresas.
-</br> </br>
-Me apasiona mucho el desarrollo de software y el cómo se pueden transformar diferentes ideas en productos o soluciones digitales. Asimismo, me encanta escribir código legible y de esta forma crear páginas o aplicaciones web responsive e interactivas basándome en diseños UX/UI.
+Soy un Ingeniero Electrónico y Desarrollador de Software con una sólida formación y 3 años y medio de experiencia en el campo, centrándome principalmente en el desarrollo backend. Tengo conocimiento y dominio en tecnologías como Java, Spring, Python, Django, JavaScript, Node.js, SQL, REST, HTML, CSS y Git. Estas habilidades me han permitido desarrollar soluciones de software robustas y escalables, así como colaborar eficazmente en proyectos multidisciplinarios. Además de mi formación de pregrado, obtuve una certificación de Desarrollador Backend en Platzi, lo que demuestra mi compromiso con el aprendizaje continuo y mi deseo de mantenerme al tanto de las últimas tecnologías y mejores prácticas en el desarrollo de software. En mi trabajo, he demostrado la capacidad de implementar soluciones efectivas en entornos basados en la nube, específicamente en Microsoft Azure, lo que ha contribuido al éxito de los proyectos en los que he participado.
 </div>
 
+<!--
 ## Tecnologías:
 [![REACTJS](https://img.shields.io/badge/React.js-00d8ff?style=for-the-badge&logo=react&logoColor=white&labelColor=222222)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=323330)]()
@@ -18,6 +17,7 @@ Me apasiona mucho el desarrollo de software y el cómo se pueden transformar dif
 [![Flask](https://img.shields.io/badge/Flask-EEEEEE?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 </br>
 [![Git](https://img.shields.io/badge/Git-3d2c00?style=for-the-badge&logo=Git&logoColor=white&labelColor=f34f29)]()
+-->
 
 ## Proyectos
 - [Tienda Online Interactiva](https://bmindiola.github.io/yard-sale-js/)
